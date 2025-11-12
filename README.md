@@ -72,6 +72,17 @@ Here’s a more fun look at my GitHub activity and achievements!
 
 ---
 
+## 📊 My GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=njoroofficial&theme=dracula&hide_border=true&color=87CEEB&line=87CEEB&point=FFFFFF&area=true" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+
+
+
 ## 📬 Let's Connect
 
 <p align="center">
